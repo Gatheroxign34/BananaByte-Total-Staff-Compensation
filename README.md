@@ -9,7 +9,7 @@
 <body>
     <h1> What factors influence total compensation, salary and yearly bonuses at BananaByte? </h1>
         <p> This python project explores a ficticious company BananaByte's entry level, mid-level, management level, and executive level staff members' total compensation, salary and yearly bonuses </p>
-        <p> Inquiry: Have you ever wondered of factors such as seniority, years of experience or gender influence total compensation? How about all three? </p> 
+        <p> Inquiry: Have you ever wondered if factors such as seniority, years of experience or gender influence total compensation? How about all three? </p> 
         <p> Tools & Methods: Python Pandas, Scipy Stats, Seaborn and ScikitLearn in a Python Notebook</p>
         <p> Analysis: In the exploratory data analysis phase it is clear that there's a correlation between gender and total compensation at the executive level with men garnering more pay overall than women by about 25%.
             At the executive level and management levels there's no correlation between seniority and total compensation. However, as you move above 400,000 in the management level specifically there seems to be some correlation.   
