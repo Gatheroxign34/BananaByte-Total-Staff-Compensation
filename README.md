@@ -15,7 +15,7 @@
                  <li> At the executive level and management levels there's no correlation between seniority and total compensation. However, as you move above $400,000 in the management level specifically, there seems to be some correlation. To find out what this correlation may be and if there are other correlations between numeric variables, I applied a k-means clustering unsupervised model. </li>
                 <li>The goal is to make an interactive dashboard using PowerBi to help our ficticious BananaByte HR team see the connections between Years of Experience, Years of Seniority, Performance, Market Median Salary, Yearly Bonuses and Total Compensation.</li>
 &nbsp;
-       <b> <p> Recommendations:</b> If BananaByte were a real company we would want to examine issues with equality for total compensation based on Gender, but we would also want to see if a combination of factors (years of experience, seniority and performance) limit staff members' access to bonuses. This combination of factors may then help to illuminate solutions for equitable pay policies in this company. 
+       <b> <p> Recommendations:</b> If BananaByte were a real company we would want to examine issues with equality for total compensation based on Gender, but we would also want to see if a combination of factors (years of experience, seniority and performance) limit staff members' access to bonuses. This combination of factors may then help to illuminate solutions to transform HR operations to advance towards equitable pay policies in this company. 
 
 <a href = "https://colab.research.google.com/drive/1Cf268X3bLugLUfCPIaP9y8EYZN2O3T2z?usp=sharing"> Interactive Python Notebook </a>  
 </body>
