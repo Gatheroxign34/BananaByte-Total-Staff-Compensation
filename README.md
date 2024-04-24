@@ -18,16 +18,15 @@
                 <li> The dashboard shows characteristics for each cluster. Leadership staff is denoted by the color orange. We know this because K-means_6 and K-means_7 clusters involve performance, orange has "0" as it's cluster for performance, helping HR to understand that for executive leadership bonuses are connected to seniority rather than years of experience or performance.
                 <li> If HR staff filter job level to entry level, K-means_6 and K-means_7 clusters show that bonuses and total compensation (salary + bonus) are only connected to performance since years of experience is not relevant to entry level staff.</li>
                 <li> If HR staff filter job level to senior and mid-senior level, years of experience and performance affect salary level with one exception, and that is a staff member in product and project management where years of experience do not affect salary. </li>
-&nbsp;
+&emsp;
 <img width="500" alt="PowerBiEntrylevelImage" src="https://github.com/Gatheroxign34/BananaByte-Total-Staff-Compensation/assets/94628744/637b15a2-23f8-46dd-8067-057e612252ab">
-&nbsp;
+&emsp;
 <img width="500" alt="PowerBiLeadershiplevelImage" src="https://github.com/Gatheroxign34/BananaByte-Total-Staff-Compensation/assets/94628744/f0d33b07-20a0-4e2e-9ed0-397c27ebb608">
-&nbsp;
+&emsp;
 <img width="500" alt="PowerBiDataEngineeringFemaleStaffImage" src="https://github.com/Gatheroxign34/BananaByte-Total-Staff-Compensation/assets/94628744/87564a12-8480-46ad-89b4-ae91a059c9cd">
-&nbsp;
+&emsp;
 <img width="500" alt="PowerBiDataEngineeringMaleStaffImage" src="https://github.com/Gatheroxign34/BananaByte-Total-Staff-Compensation/assets/94628744/ea211794-7c89-4b5f-aea6-7498d0b1c644">
-&nbsp;
-&nbsp;
+&emsp;
        <b> <p> Recommendations:</b> If BananaByte were a real company we would want to examine issues with equality for total compensation based on gender at the executive level. We might want to investigate seniority as it relates to female executives total compensation. And, at the Senior level investigating data science and engineers salaries for male vs. female staff members. 217,337.00 is the highest male salary in data science and engineering while 202,274.10 is the highest female salary in data science and engineering. To transform this dynamic HR can look at the level of experience versus level of performance for female data scientists and engineers to make more equitable decisions for salary levels.  
 
 <a href = "https://colab.research.google.com/drive/1Cf268X3bLugLUfCPIaP9y8EYZN2O3T2z?usp=sharing"> Interactive Python Notebook </a>  
